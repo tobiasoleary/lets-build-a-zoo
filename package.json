@@ -1,0 +1,9 @@
+{
+  "name": "lets-build-a-zoo",
+  "version": "0.0.1",
+  "repository": "git@github.com:tobiasoleary/lets-build-a-zoo.git",
+  "license": "ISC",
+  "dependencies": {
+    "ng": "0.0.0-rc6"
+  }
+}
